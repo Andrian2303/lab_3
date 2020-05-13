@@ -1,0 +1,4 @@
+materialsBrand, materialsColor, priceInUAH, materialSize, companyOfManufactures, neededForSockets, lenght, wenght
+America, white, 78.4, 9, Virus,true, lenght = 8, wenght =10
+Germany, gray, 135.2, 56, Strong,false, betonBrend = Dream
+Kannada, bronze, 191.9, 890, Quality,false, typeOfWire = ALUMINIUM_WIRE
